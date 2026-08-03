@@ -146,10 +146,10 @@ Durante a análise foi possível observar:
 
 ## 📷 Dashboard
 
-> Adicione aqui um print do dashboard.
+![Dashboard Logístico](dashboard_concluido.png)
 
 ```
-/images/dashboard-logistica.png
+/images/dashboard_concluido.png
 ```
 
 ---
